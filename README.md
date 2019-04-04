@@ -1,2 +1,2 @@
-# MediumCalculator
+# AntColonyOptimization
 Simple basic calculator
